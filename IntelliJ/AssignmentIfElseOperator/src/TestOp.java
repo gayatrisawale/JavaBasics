@@ -27,7 +27,7 @@ public class TestOp {
         int mod= t1%t2;
         System.out.println("Result"+ mod);
         System.out.println("------------==============---------------");
-        
+
         System.out.println("-----Calculate perimeter of rectangle---");
         int a= scn.nextInt();
         int b= scn.nextInt();
